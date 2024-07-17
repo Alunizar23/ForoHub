@@ -34,7 +34,7 @@ Foro Hub es una aplicación de foro diseñada para facilitar la comunicación y 
 
 Clona este repositorio:
 ```
-git clone https://github.com/Orliluq/ForoHub.git
+git clone https://github.com/Alunizar23/ForoHub.git
 ```
 
 Navega al directorio del proyecto:
